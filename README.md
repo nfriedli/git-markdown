@@ -25,10 +25,6 @@
 - fichier de contenu (valeur / sens) qui sera transformé
 - pérenne et léger
 
-## Synchro
-
-Mon texte.
-
 ## Suite...
 
 Il faut qu'on avance.
