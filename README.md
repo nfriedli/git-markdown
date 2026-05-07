@@ -1,13 +1,6 @@
 # Git & Markdown avec Elio
 
-## Markdown
 
-- WYSISWM (et non WYsiwyg)
-- fichier texte
-- donc éditeur de texte
-- balisage léger
-- fichier de contenu (valeur / sens) qui sera transformé
-- pérenne et léger
 
 ## Éditeur de texte
 
@@ -22,6 +15,15 @@
 - utilisable seul
 - avec service externe: sécurité
 - pour des fichiers txt (donc p. ex. Markdown)
+
+## Markdown
+
+- WYSISWM (et non WYsiwyg)
+- fichier texte
+- donc éditeur de texte
+- balisage léger
+- fichier de contenu (valeur / sens) qui sera transformé
+- pérenne et léger
 
 ## Synchro
 
