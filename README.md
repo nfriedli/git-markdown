@@ -9,16 +9,16 @@
 - fichier de contenu (valeur / sens) qui sera transformé
 - pérenne et léger
 
-## Git
-
-- contexte de collaboration
-- utilisable seul
-- avec service externe: sécurité
-- pour des fichiers txt (donc p. ex. Markdown)
-
 ## Éditeur de texte
 
 - agnostique
 - personnel
 - adaptable
 - etc.
+
+## Git
+
+- contexte de collaboration
+- utilisable seul
+- avec service externe: sécurité
+- pour des fichiers txt (donc p. ex. Markdown)
