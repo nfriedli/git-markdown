@@ -22,3 +22,7 @@
 - utilisable seul
 - avec service externe: sécurité
 - pour des fichiers txt (donc p. ex. Markdown)
+
+## Synchro
+
+Mon texte.
