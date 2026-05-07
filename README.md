@@ -2,7 +2,7 @@
 
 ## Markdown
 
-- WYSISWM
+- WYSISWM (et non WYsiwyg)
 - fichier texte
 - donc éditeur de texte
 - balisage léger
